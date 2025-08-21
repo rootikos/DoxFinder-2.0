@@ -1,4 +1,5 @@
-# DoxFinder-2.0
-Advanced Dox creator With multiple templates and tools
-For contact add me on discord: rustikeot
-or on telegram: si0n3q
+## DoxFinder-2.0
+- Advanced Dox creator With multiple templates and tools
+## Contact w me
+- discord: rustikeot
+- telegram: si0n3q
